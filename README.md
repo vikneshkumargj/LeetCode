@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vikneshkumargj/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/vikneshkumargj/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/vikneshkumargj/LeetCode/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vikneshkumargj/LeetCode/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/vikneshkumargj/LeetCode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/vikneshkumargj/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vikneshkumargj/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikneshkumargj/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vikneshkumargj/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/vikneshkumargj/LeetCode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vikneshkumargj/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/vikneshkumargj/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
