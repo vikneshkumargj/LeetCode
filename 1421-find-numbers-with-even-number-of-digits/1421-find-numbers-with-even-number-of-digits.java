@@ -10,12 +10,7 @@ class Solution {
 
     static int count(int num)
     {
-        int count=0;
-        while(num!=0)
-        {
-            count++;
-            num=num/10;
-        }
+        int count=(int)Math.log10(num)+1;
         return count;
     }
 }
