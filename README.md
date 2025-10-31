@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/vikneshkumargj/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/vikneshkumargj/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/vikneshkumargj/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vikneshkumargj/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Memoization
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vikneshkumargj/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vikneshkumargj/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/vikneshkumargj/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vikneshkumargj/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vikneshkumargj/LeetCode/tree/master/0169-majority-element) |
 | [0782-jewels-and-stones](https://github.com/vikneshkumargj/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vikneshkumargj/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vikneshkumargj/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
 |  |
 | ------- |
