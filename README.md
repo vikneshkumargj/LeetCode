@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vikneshkumargj/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/vikneshkumargj/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/vikneshkumargj/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/vikneshkumargj/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/vikneshkumargj/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
@@ -163,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/vikneshkumargj/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/vikneshkumargj/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
