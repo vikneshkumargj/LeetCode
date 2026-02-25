@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vikneshkumargj/LeetCode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/vikneshkumargj/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/vikneshkumargj/LeetCode/tree/master/0268-missing-number) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/vikneshkumargj/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vikneshkumargj/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/vikneshkumargj/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2556-convert-the-temperature](https://github.com/vikneshkumargj/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/vikneshkumargj/LeetCode/tree/master/0832-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/vikneshkumargj/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/vikneshkumargj/LeetCode/tree/master/0883-car-fleet) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/vikneshkumargj/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vikneshkumargj/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vikneshkumargj/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/vikneshkumargj/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/vikneshkumargj/LeetCode/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/vikneshkumargj/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/vikneshkumargj/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/vikneshkumargj/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vikneshkumargj/LeetCode/tree/master/1929-concatenation-of-array) |
