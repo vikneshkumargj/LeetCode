@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vikneshkumargj/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/vikneshkumargj/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/vikneshkumargj/LeetCode/tree/master/0125-valid-palindrome) |
+| [0832-flipping-an-image](https://github.com/vikneshkumargj/LeetCode/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/vikneshkumargj/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/vikneshkumargj/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/vikneshkumargj/LeetCode/tree/master/0792-binary-search) |
+| [0832-flipping-an-image](https://github.com/vikneshkumargj/LeetCode/tree/master/0832-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/vikneshkumargj/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/vikneshkumargj/LeetCode/tree/master/0883-car-fleet) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vikneshkumargj/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vikneshkumargj/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vikneshkumargj/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vikneshkumargj/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/vikneshkumargj/LeetCode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/vikneshkumargj/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/vikneshkumargj/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Prefix Sum
@@ -180,9 +183,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/vikneshkumargj/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/vikneshkumargj/LeetCode/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/vikneshkumargj/LeetCode/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/vikneshkumargj/LeetCode/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/vikneshkumargj/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/vikneshkumargj/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vikneshkumargj/LeetCode/tree/master/1929-concatenation-of-array) |
