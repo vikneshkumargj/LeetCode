@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vikneshkumargj/LeetCode/tree/master/0125-valid-palindrome) |
 | [0782-jewels-and-stones](https://github.com/vikneshkumargj/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vikneshkumargj/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1773-count-items-matching-a-rule](https://github.com/vikneshkumargj/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vikneshkumargj/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/vikneshkumargj/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 ## Dynamic Programming
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/vikneshkumargj/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/vikneshkumargj/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/vikneshkumargj/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1773-count-items-matching-a-rule](https://github.com/vikneshkumargj/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1791-richest-customer-wealth](https://github.com/vikneshkumargj/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/vikneshkumargj/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vikneshkumargj/LeetCode/tree/master/1929-concatenation-of-array) |
