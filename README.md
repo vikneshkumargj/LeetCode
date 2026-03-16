@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vikneshkumargj/LeetCode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/vikneshkumargj/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/vikneshkumargj/LeetCode/tree/master/0268-missing-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/vikneshkumargj/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vikneshkumargj/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vikneshkumargj/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/vikneshkumargj/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/vikneshkumargj/LeetCode/tree/master/0867-transpose-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/vikneshkumargj/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/vikneshkumargj/LeetCode/tree/master/0883-car-fleet) |
+| [0989-add-to-array-form-of-integer](https://github.com/vikneshkumargj/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vikneshkumargj/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/vikneshkumargj/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vikneshkumargj/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
