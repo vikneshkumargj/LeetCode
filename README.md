@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vikneshkumargj/LeetCode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/vikneshkumargj/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/vikneshkumargj/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/vikneshkumargj/LeetCode/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/vikneshkumargj/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/vikneshkumargj/LeetCode/tree/master/0792-binary-search) |
 | [0832-flipping-an-image](https://github.com/vikneshkumargj/LeetCode/tree/master/0832-flipping-an-image) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vikneshkumargj/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/vikneshkumargj/LeetCode/tree/master/0682-baseball-game) |
 | [0883-car-fleet](https://github.com/vikneshkumargj/LeetCode/tree/master/0883-car-fleet) |
 ## Monotonic Stack
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/vikneshkumargj/LeetCode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/vikneshkumargj/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/vikneshkumargj/LeetCode/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vikneshkumargj/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
