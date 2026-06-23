@@ -1,32 +1,22 @@
-import java.math.BigInteger;
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        int[] nos = {2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53,59,61,67,71,73,79,83,89,97,101,103};
-        
-        Map<BigInteger,List<String>> map = new HashMap<>();
-        for(String word : strs)
+        HashMap<String,List<String>> mp = new HashMap<>();
+        for(int i=0;i<strs.length;i++)
         {
-            BigInteger prod= BigInteger.ONE;
-            for(int i =0;i<word.length();i++)
+            String curr = strs[i];
+            char[] arr = curr.toCharArray();
+            Arrays.sort(arr);
+            String sorted = new String(arr);
+            if(!mp.containsKey(sorted))
             {
-                
-                prod=prod.multiply(BigInteger.valueOf(nos[word.charAt(i)-'a']));
+                mp.put(sorted,new ArrayList<>());
             }
-            if(map.containsKey(prod))
-            {
-                map.get(prod).add(word);
-            }
-            else
-            {
-                map.put(prod,new ArrayList<String>());
-                map.get(prod).add(word);
-            }
+            mp.get(sorted).add(curr);
         }
-
         List<List<String>> ans = new ArrayList<>();
-        for(List<String> val : map.values())
+        for(List<String> s :mp.values())
         {
-            ans.add(val);
+            ans.add(s);
         }
         return ans;
     }
