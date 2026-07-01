@@ -5,30 +5,20 @@ class Solution {
         {
             freq.put(num,freq.getOrDefault(num,0)+1);
         }
-        List<Integer>[] bucket = new ArrayList[nums.length+1];
-        for(int num : freq.keySet())
+
+        PriorityQueue<Map.Entry<Integer,Integer>> heap = new PriorityQueue<>((a,b)->Integer.compare(b.getValue(),a.getValue()));
+        for(Map.Entry<Integer,Integer> num : freq.entrySet())
         {
-            int count = freq.get(num);
-            if(bucket[count]==null)
-            {
-                bucket[count] = new ArrayList<>();
-            }
-            bucket[count].add(num);
+            heap.offer(num);
         }
 
         int[] ans = new int[k];
-        int index=0;
-        for(int i=bucket.length-1;i>=0 && index<k;i--)
+        for(int i=0;i<k;i++)
         {
-            if(bucket[i]!=null)
-            {
-                for(int num : bucket[i])
-                {
-                    ans[index++]=num;
-                    if(index==k)break;
-                }
-            }
+            ans[i] = heap.poll().getKey();
         }
         return ans;
+
+
     }
 }
