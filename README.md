@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vikneshkumargj/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vikneshkumargj/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vikneshkumargj/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/vikneshkumargj/LeetCode/tree/master/0189-rotate-array) |
 | [0658-find-k-closest-elements](https://github.com/vikneshkumargj/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0832-flipping-an-image](https://github.com/vikneshkumargj/LeetCode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/vikneshkumargj/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vikneshkumargj/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/vikneshkumargj/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/vikneshkumargj/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/vikneshkumargj/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vikneshkumargj/LeetCode/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/vikneshkumargj/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vikneshkumargj/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vikneshkumargj/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/vikneshkumargj/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/vikneshkumargj/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vikneshkumargj/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/vikneshkumargj/LeetCode/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vikneshkumargj/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/vikneshkumargj/LeetCode/tree/master/0268-missing-number) |
